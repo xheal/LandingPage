@@ -9,6 +9,28 @@ Build of `xHeal Clinics Landing Page v2.pdf` (Downloads) as a single static page
 - `assets/wordmark.svg`, `assets/mark.svg`: from folder 75.
 - `assets/logos/`: WHOOP, Polar and Strava wordmarks (Wikimedia Commons), MyChart site logo (media.epic.com). Apple Health, the Apple glyph and the two document icons are inline SVG.
 
+## Screenshots
+
+Captured 23 Oct 2026 from the local build at 1440 px (desktop) and 390 px at 2x (phone).
+
+| Hero with the booking flow | Where protocols go quiet |
+| --- | --- |
+| ![Hero](docs/hero.jpg) | ![Problem section](docs/problem.jpg) |
+
+| What you see with xHeal | From guessing to knowing |
+| --- | --- |
+| ![Video section](docs/video.jpg) | ![Comparison](docs/compare.jpg) |
+
+| Start small | Questions |
+| --- | --- |
+| ![Start small](docs/start-small.jpg) | ![FAQ](docs/faq.jpg) |
+
+| Phone hero | Phone video section |
+| --- | --- |
+| <img src="docs/phone-hero.jpg" width="300" alt="Phone hero"> | <img src="docs/phone-video.jpg" width="300" alt="Phone video section"> |
+
+Full page: [docs/full-desktop.jpg](docs/full-desktop.jpg)
+
 ## Where the build departs from the PDF
 
 - The hero sits on the provider onboarding stage (night to indigo sweep, haze, grain; light tokens, centre sunk to 97 to 103 percent so the headline stays on night and the light rises under the card). Classes are `.sky`, `.sky__sweep`, `.sky__haze`, `.sky__grain` because `.stage` is the video panel.
